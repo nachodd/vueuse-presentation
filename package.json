@@ -1,0 +1,26 @@
+{
+  "name": "vueuse-presentation",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^51.3.0",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "@vueuse/components": "^12.7.0",
+    "@vueuse/core": "^12.7.0",
+    "@vueuse/shared": "^12.8.2",
+    "slidev-theme-penguin": "^2.3.1",
+    "slidev-theme-vuetiful": "^0.3.1",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@iconify-json/mdi": "^1.2.3",
+    "unplugin-icons": "^22.1.0",
+    "vite-svg-loader": "^5.1.0"
+  }
+}
