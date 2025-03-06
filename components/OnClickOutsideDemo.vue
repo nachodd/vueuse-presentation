@@ -30,7 +30,6 @@ function toggle() {
 }
 // Use onClickOutside to detect clicks outside the dropdown
 onClickOutside(dropdown, () => {
-  debugger
   if (open.value) {
     open.value = false
     closeCount.value++

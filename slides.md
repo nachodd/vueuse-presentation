@@ -6,7 +6,7 @@ layout: intro
 highlighter: shiki
 title: Vue 3 - Reactivity
 themeConfig:
-  logoHeader: "/nacho-pixel-32.png"
+  logoHeader: "nacho-pixel-32.png"
 transition: fade
 src: ./pages/1.md
 ---
